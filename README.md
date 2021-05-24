@@ -12,7 +12,7 @@ Tool for comparison of different encodings and resolutions of a video.
 
 ### Run the tool
 
-Run the tool from the commands line specifying a project in JSON format. E.g.
+Run the tool from the command line specifying a project in JSON format. E.g.
 ```
 python inspector.py -p my_project.json
 ```
