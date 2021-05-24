@@ -17,10 +17,11 @@ Run the tool from the commands line specifying a project in JSON format. E.g.
 python inspector.py -p my_project.json
 ```
 
-It will load the videos specified in the project file. Then a Window will open up where you can navigate through the video. Some Shortcuts:
+It will load the videos specified in the project file. Then a Window will open up where you can navigate through the video. Some shortcuts (window has to be active):
 * Press [A] or [D] key to switch between the different video files at the same frame.
 * Press [W] or [S] key to zoom in/out of the frame.
 * Press [E] key to go to the next frame.
+* Press [Q] key to exit.
 
 ### Project file
 
