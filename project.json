@@ -1,0 +1,20 @@
+{
+  "start": 4500,
+  "videos": [
+    {
+      "path": "E:\\videos\\5k_180_180x180_3dh.mp4",
+      "note": "5k",
+      "offset": 1
+    },
+    {
+      "path": "E:\\videos\\6k_180_180x180_3dh.mp4",
+      "note": "6k",
+      "offset": 0
+    },
+    {
+      "path": "E:\\videos\\7k_180_180x180_3dh.mp4",
+      "note": "7k",
+      "offset": 0
+    }
+  ]
+}
